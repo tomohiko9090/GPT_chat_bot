@@ -11,6 +11,11 @@
   - StreamlitとGitHubを使って簡単にデプロイサービス
 
 # 開発スタイル
+1. Streamlitを使ってグーグルコラボで開発する
+2. pyngrokでアプリの動作確認を行う
+3. コラボで作成したファイルをダンロードし、GitHubのリポジトリにあげる
+4. Streamlit Community Cloudにデプロイ
+5. apiキーなど入っていないか確認し、入っている場合はsecretsでサーバー側で制御できるようにする
 
 # 開発メモ
 - 公開してはいけないよう情報をStreamlit Community Cloud上にシークレットにして保存しておく方法
