@@ -1,5 +1,17 @@
 # GPT_chat_bot
 
+
+# 技術
+- Python
+- openai 
+- Streamlit
+- pyngrok
+  - ローカルサーバを外部ネットワークに簡単に公開できるサービス
+- Streamlit Community Cloud
+  - StreamlitとGitHubを使って簡単にデプロイサービス
+
+# 開発スタイル
+
 # 開発メモ
 - 公開してはいけないよう情報をStreamlit Community Cloud上にシークレットにして保存しておく方法
   - 例
@@ -18,3 +30,4 @@
     - 実名
     - 誹謗中傷
     - 過激な言葉
+
