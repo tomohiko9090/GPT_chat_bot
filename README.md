@@ -57,8 +57,18 @@ system_prompt = """
 ```
 
 # 他の開発例
-[ダイエット](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli)
+- 準備
+  - [GPT設定](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_1/02_exercise.ipynb#scrollTo=nkswVM4r9BBt)
+  - [streamlitの使い方](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_2/01_streamlit_basic.ipynb#scrollTo=mTfmORj2Dn7-)
+- 具体例
+  - [料理提案](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/01_recipe.ipynb#scrollTo=MIY7ositLAXC)
+  - [ダイエット助言アプリ](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli)
+  - [英語講師](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/03_english.ipynb)
+  - [プログラミング講師](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/04_programming.ipynb)
+  - [対話型ゲーム](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/05_rpg.ipynb#scrollTo=Ntj_BU3bnJli)
+  - [占い](https://github.com/yukinaga/chatgpt_api/blob/main/section_4/06_fortunetelling.ipynb)
 # 他の開発例
 
 # 参考url
 https://www.udemy.com/course/chatgpt-api-bot/learn/lecture/37403448#overview
+
