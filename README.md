@@ -57,7 +57,7 @@ system_prompt = """
 ```
 
 # 他の開発例
-(ダイエット)https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli]
+[ダイエット](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli)
 # 他の開発例
 
 # 参考url
