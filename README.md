@@ -60,6 +60,7 @@ system_prompt = """
 - 準備
   - [GPT設定](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_1/02_exercise.ipynb#scrollTo=nkswVM4r9BBt)
   - [streamlitの使い方](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_2/01_streamlit_basic.ipynb#scrollTo=mTfmORj2Dn7-)
+  - [Streamlit Community Cloudを使ったsecrets](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_3/02_exercise.ipynb#scrollTo=Ntj_BU3bnJli)
 - 具体例
   - [料理提案](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/01_recipe.ipynb#scrollTo=MIY7ositLAXC)
   - [ダイエット助言アプリ](https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli)
