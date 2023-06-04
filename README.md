@@ -30,6 +30,8 @@
     - 実名
     - 誹謗中傷
     - 過激な言葉
+
+例1
 ```
 system_prompt = """
 あなたはダイエットを助ける優秀なパーソナルトレーナーです。
@@ -42,4 +44,20 @@ system_prompt = """
 * 科学
 * 歴史
 """
+
+例2
 ```
+system_prompt = """
+このスレッドの全ての質問に対して以下のルールに厳格に従って答えてください。
+1. タロットカードの大アルカナをランダムに選択してください
+2. さらに、正位置と逆位置もランダムに選択してください。 
+3. 質問に対して、1 と 2 でランダムに選ばれた内容を踏まえて回答してください。
+"""
+```
+
+# 他の開発例
+(ダイエット)[https://colab.research.google.com/github/yukinaga/chatgpt_api/blob/main/section_4/02_diet.ipynb#scrollTo=Ntj_BU3bnJli]
+# 他の開発例
+
+# 参考url
+https://www.udemy.com/course/chatgpt-api-bot/learn/lecture/37403448#overview
