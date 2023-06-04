@@ -78,3 +78,5 @@ system_prompt = """
 # 参考url
 https://www.udemy.com/course/chatgpt-api-bot/learn/lecture/37403448#overview
 
+# 料金確認
+https://platform.openai.com/account/usage
